@@ -1,6 +1,7 @@
 .App {
   background: #cee5d0;
   border-radius: 6px;
+  font-family: "Quicksand", sans-serif;
 }
 
 .App-header {
@@ -9,6 +10,9 @@
 
 .App-header h1 {
   padding: 15px 0;
+  font-family: "Parisienne", cursive;
+  font-size: 50px;
+  font-weight: bold;
 }
 
 .App-footer {
