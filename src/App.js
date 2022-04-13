@@ -12,7 +12,15 @@ export default function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Lena</small>
+          Coded by {""}
+          <a
+            href="https://www.linkedin.com/in/lena-berger-316849197/"
+            className="Link"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Lena
+          </a>
         </footer>
       </div>
     </div>

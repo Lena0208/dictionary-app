@@ -1,13 +1,15 @@
 .App {
-  background: #cee5d0;
+  background: #e2c2b3;
   border-radius: 6px;
   font-family: "Quicksand", sans-serif;
   max-width: 960px;
   margin: 0 auto;
+  border: 1px solid #f7f3f5;
 }
 
 .App .container {
-  padding: 0 25px;
+  padding: 30px;
+  margin-top: 30px;
 }
 
 .App-header {
@@ -15,7 +17,7 @@
 }
 
 .App-header h1 {
-  padding: 30px 0;
+  padding-bottom: 30px;
   font-family: "Parisienne", cursive;
   font-size: 53px;
   font-weight: bold;
@@ -24,5 +26,12 @@
 
 .App-footer {
   text-align: center;
-  padding-bottom: 15px;
+  font-size: 15px;
+}
+
+.Link {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  color: #403234;
 }
